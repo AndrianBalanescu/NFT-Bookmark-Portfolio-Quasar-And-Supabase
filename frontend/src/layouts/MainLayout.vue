@@ -64,11 +64,11 @@
         />
         <div class="container-logo q-py-sm">
           <q-img
-            src="images/favsurf.png"
+            src="https://epicflowers.live/slowepic.gif"
             no-spinner
-            fit="scale-down"
             position="left"
             class="q-ml-md"
+            style="border-radius: 50%; max-width: 45px"
           />
         </div>
 

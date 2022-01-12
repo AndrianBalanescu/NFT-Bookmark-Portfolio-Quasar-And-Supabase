@@ -1,8 +1,4 @@
-![Logo](frontend/public/images/favsurf.png)
-
-# fav.surf
-
-A privacy respecting self-hosted bookmark management solution.
+ A privacy respecting self-hosted NFT bookmark management solution.
 
 Built using [Quasar v2](https://quasar.dev/) (Vue 3) and [supabase](https://supabase.io).
 
@@ -45,8 +41,10 @@ Built using [Quasar v2](https://quasar.dev/) (Vue 3) and [supabase](https://supa
 ## Development
 
 ```bash
-git clone https://github.com/juzzeth/fav.surf.git
-cd fav.surf
+git clone  https://github.com/AndrianBalanescu/NFT-Bookmark-Portfolio-Quasar-And-Supabase
+
+
+ 
 ```
 
 ### Frontend

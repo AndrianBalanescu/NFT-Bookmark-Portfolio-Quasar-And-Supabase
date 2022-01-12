@@ -1,5 +1,8 @@
-# fav.surf (fav.surf)
+##NFT BOOKMARKS
+https://nftbookmark.netlify.app/#/bookmarks
 
+// ADD YOUR OWN ENV VARIABLES TO .env or NETLIFY ENVIRONMENT VARIABLES
+##
 Self hosted bookmark solution made with Quasar and supabase.
 
 Completely unfinished and you can't add bookmarks yet. It's pretty fun making folders and changing icons, though.

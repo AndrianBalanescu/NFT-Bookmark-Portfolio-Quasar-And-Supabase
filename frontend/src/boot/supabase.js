@@ -1,6 +1,7 @@
-import { createClient } from "@supabase/supabase-js";
+import { createClient } from '@supabase/supabase-js'
+//require dotenv
 
-const supabaseUrl = "http://localhost:8000";
-const supabaseAnonKey = process.env.VUE_APP_SUPABASE_ANON_KEY;
+const supabaseUrl = process.env.VUE_APP_SUPABASE_ANON_URL
+const supabaseAnonKey = process.env.VUE_APP_SUPABASE_ANON_KEY
 
-export const supabase = createClient(supabaseUrl, supabaseAnonKey);
+export const supabase = createClient(supabaseUrl, supabaseAnonKey)
