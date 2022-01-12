@@ -8,7 +8,7 @@ Built using [Quasar v2](https://quasar.dev/) (Vue 3) and [supabase](https://supa
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://gpqfizmipddyuclajzop.supabase.in/storage/v1/object/public/avatars/11.png)
 
 ## Features
 
